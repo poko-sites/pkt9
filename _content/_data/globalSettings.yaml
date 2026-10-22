@@ -1,1 +1,5 @@
-
+siteName: "pkt9"
+productionUrl: https://pkt9.pages.dev
+languages:
+  - code: en
+    status: published
